@@ -1,0 +1,17 @@
+#Listado de archivos ignorados
+ESE_CRT_Simulator.sdf
+ESE_CRT_Simulator.sln
+ESE_CRT_Simulator.suo
+ESE_CRT_Simulator.v11.suo
+ESE_CRT_Simulator.opensdf
+/Debug
+/ESE_CRT_Simulator/Debug
+/ESE_CRT_Simulator/ESE_CRT_Simulator.vcxproj
+/ESE_CRT_Simulator/ESE_CRT_Simulator.vcxproj.filters
+/ESE_CRT_Simulator/ESE_CRT_Simulator.vcxproj.user
+/ESE_CRT_Simulator/~AutoRecover.ESE_CRT_Simulator.vcxproj
+/ESE_CRT_Simulator/ESE_CRT_Form.resx
+/ESE_CRT_Simulator/ESE_CRT_Simulator.APS
+/ESE_CRT_Simulator/ESE_CRT_Simulator.rc
+/ESE_CRT_Simulator/icon.aps
+/ESE_CRT_Simulator/resource.h
