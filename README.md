@@ -1,4 +1,4 @@
-# ESE_CRT_Simulator v1.0.0 
+# ESE_CRT_Simulator v1.1.0 
 
 ESE_CRT_Simulator es el simulador de conexiones por el puerto serie
 de [ESE_CRT](https://github.com/Esteban1914/ESE_CRT)

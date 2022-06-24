@@ -538,7 +538,10 @@ void Enviar(char c)
 {
 	if(c!=7)
 		Seguridad();
-	sp.Trasmitir(&c);
+	char cc[2];
+	cc[0]=c;
+	cc[1]=0;
+	sp.Trasmitir(cc);
 }
 void Seguridad()
 {
@@ -573,6 +576,7 @@ private: System::Void btn3_Click(System::Object^  sender, System::EventArgs^  e)
 			EnviarC(txb1);	
 }
 private: System::Void btn4_Click(System::Object^  sender, System::EventArgs^  e) {
+	contSeg=0;
 	Enviar((char)7);
 }
 private: System::Void btn5_Click(System::Object^  sender, System::EventArgs^  e) {
