@@ -483,7 +483,7 @@ namespace ESE_CRT_Simulator {
 			this->label7->Name = L"label7";
 			this->label7->Size = System::Drawing::Size(37, 13);
 			this->label7->TabIndex = 11;
-			this->label7->Text = L"v1.0,0";
+			this->label7->Text = L"v1.1,0";
 			// 
 			// ESE_CRT_Form
 			// 
